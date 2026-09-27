@@ -33,5 +33,5 @@ This project uses survey data from university students to explore factors contri
 
 ## 👤 Author & Acknowledgments
 
-- **Developer:** [Sammy6899](https://github.com/Sammy6899)
+- **Developer:** Samiha Tasnim Orthi, Sumaiya Zaman
 - **Course:** CSE422 - Machine Learning
